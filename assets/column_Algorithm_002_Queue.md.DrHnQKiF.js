@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.B_XxXr4T.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"column/Algorithm/002_Queue.md","filePath":"column/Algorithm/002_Queue.md"}'),r={name:"column/Algorithm/002_Queue.md"};function a(c,n,s,_,m,u){return o(),t("div")}const p=e(r,[["render",a]]);export{l as __pageData,p as default};
