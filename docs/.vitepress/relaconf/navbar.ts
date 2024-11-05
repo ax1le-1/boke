@@ -10,6 +10,10 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: 'mysql',
         link: '/column/database/' // 对应docs/column/Algorithm下的idnex.md文件
+      },
+      {
+        text: 'markdown基本语法',
+        link: '/column/markdown/'
       }
     ]
   }

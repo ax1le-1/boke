@@ -1,6 +1,6 @@
 import { DefaultTheme } from 'vitepress';
 export const sidebar: DefaultTheme.Sidebar = {
-  // /column/Algothm/表示对这个文件夹下的所有md文件做侧边栏配置
+  // /column/database/表示对这个文件夹下的所有md文件做侧边栏配置
   '/column/database/': [
      // 第一部分
     {
@@ -29,6 +29,12 @@ export const sidebar: DefaultTheme.Sidebar = {
           link: '/column/database/004_Tree'
         }
       ]
+    }
+  ],
+  '/column/markdown/': [
+    {
+      text: 'markdown基本语法',
+      link: '/column/markdown/'
     }
   ]
 }

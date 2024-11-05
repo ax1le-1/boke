@@ -25,13 +25,14 @@ hero:
       text: 进入主页
       link: /column/views/guide
     - theme: alt
-      text: 个人成长
-      link: /column/Growing/
+      text: markdown基础语法
+      link: /column/markdown/
 # 按钮下方的描述
 features:
   - icon: ''
-    title: Web前端
-    details: 搬砖。
+    title: markdown基础语法
+    details: 
+    link: /column/markdown/
   - icon: ''
     title: 喜欢美学
     details: 热爱一切美学，喜欢用各种设计工具造图。
